@@ -10,11 +10,19 @@
 /// or used code, from ANY outside source other than the instruction team.
 //  ================== END ASSESSMENT HEADER ===============
 #include <iostream>
+#include <string>
+#include <cmath>
 
 using namespace std;
 
 int main() 
 {
-    cout << "Hello World!" << endl;
-    return 0;
+double c;
+double f= 104.0;
+
+
+c= (f-32) * 5/9;
+cout << c;
+
+return 0;
 }
