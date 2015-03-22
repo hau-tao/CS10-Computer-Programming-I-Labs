@@ -1,7 +1,19 @@
 //  =============== BEGIN ASSESSMENT HEADER ================
+<<<<<<< HEAD
 /// @file lab2.cpp 
 /// @brief Lab 2
 ///
 /// @author Test Student [RSubEmail@ucr.edu]
 /// @date April 8, 2014
+=======
+/// @file mathematics.cpp 
+/// @brief assn4/Mathematics
+///
+/// @author Test Student [RSubEmail@ucr.edu]
+/// @date May 1, 2014
+///
+/// @par Plagiarism Section
+/// I hereby certify that I have not received assistance on this assignment, 
+/// or used code, from ANY outside source other than the instruction team.
+>>>>>>> 4fe6be6c153e2d68d112727a44581691b2c4957b
 //  ================== END ASSESSMENT HEADER ===============

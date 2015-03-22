@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cs010_practice
 ==============
 
@@ -8,6 +9,14 @@ The practice workspace has been created to provide a place for students to
 play with code and collaborate with other students on Labs, CodeLab, Zyante and
 lecture concepts. Share your public workspace with other students and 
 start figuring out C++ together.
+=======
+cs010_assignments
+=================
+
+The assignments repository is used to set up your Cloud 9 assignment workspace directories.
+The c9 workspace which holds all the assignment directories must be a **private** workspace. These directories should be utilized to organize your assignment source code files.
+  
+>>>>>>> 4fe6be6c153e2d68d112727a44581691b2c4957b
 
 **Useful Terminal Commands**  
 The following are commands that will aide you when using your c9 workspace. You may not use all of the commands daily but you will need many of the commands and should understand all of the commands.
@@ -64,5 +73,8 @@ The following are commands that will aide you when using your c9 workspace. You 
 
     user@private:~/... $ og++ hello_world.cpp
     user@private:~/... $  
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4fe6be6c153e2d68d112727a44581691b2c4957b
